@@ -1,0 +1,16 @@
+@import "../../../../scss/index.scss";
+
+.card-secondary{
+   
+  max-height: 500px;
+
+  &__image{
+     max-height: 250px;
+  }
+  /* margin: 0;
+   max-width: 1000px;
+   
+   &__image{
+      height: 300px;
+   }*/
+}
